@@ -15,8 +15,8 @@
 - [Data](#data)
 - [Notebooks](#notebooks)
 - [HTML](#HTML)
-- [Summary_Findings](#findings)
-- [Key_Insights](#insights)
+- [Summary_Findings](#Findings)
+- [Key_Insights](#Insights)
 
 
 
@@ -52,10 +52,21 @@ The dataset comes from Prosper Marketplace Inc., a company that makes loans to p
 
 > All HTML Files can be found in the form of .html file
 
-## findings
+## Findings
 
 > Using univariate exploratory data analysis, histograms were used to analysis the distribution of nominal data. BorrowerAPR and BorrowerRate seem to have the same distribution and nearly normal distribution. Additionaly,Features like DelinquenciesLast7Years and StatedMonthlyIncome seems to be left-skewed. Bar charts were also used to understand qualitative columns. With ProsperRating (Alpha), we can see that "C" category outweighs others, whereby 4 is customer risk sccore with high values in the properscore columns. Borrow home owner status are quite balanced and those who are employed are the one with the most loan compared to the other employee job status. In loan status, it can be seen that people on current loan outweighs others with 49.7% followed by those who completed their loans.
 
 > Using scatterplots, violin plots, pie charts, and bar charts in bivariate analysis interesting insights were discovered.To begin, we observed a strong positive relationship between BorrowerAPR and BorrowerRate. BorrowerAPR values decrease as prosperRating increases, according to the violin plot. Furthermore, using pie charts, we discovered that the highest rating (AA) received the lowest loan, while the lowest rating (HR) received the highest loan.
 
 > During Multivariate exploration, I used various types of plots, including FacetGrid and bar charts, to obtain adequate insights from multiple variables. We discovered that employed people who own a home have high current loans. Furthermore, we discovered that people without homes borrowed loans at a higher rate than people with homes, and that two-year loans were borrowed at a higher rate than one-year and three-year loans.
+
+## Insights 
+
+> From univariate analysis, we saw that being employed and own a home gives you the more chance to get a loan. From bivariate analysis, I saw that people with high prosper rating have a priveledge of lowest Borrower APR percentage.
+
+## Author
+
+👤 **Shyaka Kevin**
+
+- GitHub: [Shyaka Kevin](https://github.com/skevin-dev)
+- LinkedIn: [Shyaka Kevin](https://www.linkedin.com/in/shyaka-kevin/)
